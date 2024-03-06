@@ -1,5 +1,5 @@
-package main
+package brokenpackage
 
-func main(){
-    this is broken :)
+func Execute(){
+    this is broken
 }
